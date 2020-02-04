@@ -1,2 +1,2 @@
 #### React+Ts+mobx
-以React+Ts+mobx 为主体的管理端
+Management terminal with React + Ts + mobx as the main body
